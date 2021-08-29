@@ -1,0 +1,2 @@
+C:\Users\HP\Desktop\Activity 3\lambda Expressions\lambda discards\lambda discards\obj\Debug\lambda discards.csproj.AssemblyReference.cache
+C:\Users\HP\Desktop\Activity 3\lambda Expressions\lambda discards\lambda discards\obj\Debug\lambda discards.csproj.CoreCompileInputs.cache
