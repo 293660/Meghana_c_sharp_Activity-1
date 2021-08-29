@@ -1,5 +1,8 @@
 using System;
 using System.Collections.Generic;
+using System.Linq;
+using System.Text;
+using System.Threading.Tasks;
 
 namespace SoloLearn
 {
@@ -7,21 +10,12 @@ namespace SoloLearn
     {
         static void Main(string[] args)
         {
-            int levels = Convert.ToInt32(Console.ReadLine());
+            const double pi = 3.14;
+            double radius;
 
-            Console.WriteLine(Points(levels));
-        }
-
-        static int Points(int levels)
-        {
             //your code goes here
-            int points = 0;
-
-            for (int i = 1; i <= levels; i++) {
-                points += i;
-            }
-
-            return points;
+            radius = Convert.ToDouble(Console.ReadLine());
+            Console.WriteLine(pi * radius * radius);
         }
     }
 }
