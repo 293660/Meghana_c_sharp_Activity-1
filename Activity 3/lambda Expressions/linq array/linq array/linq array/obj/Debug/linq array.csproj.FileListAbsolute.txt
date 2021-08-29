@@ -1,0 +1,7 @@
+C:\Users\HP\Desktop\Activity 3\lambda Expressions\linq array\linq array\linq array\bin\Debug\linq array.exe.config
+C:\Users\HP\Desktop\Activity 3\lambda Expressions\linq array\linq array\linq array\bin\Debug\linq array.exe
+C:\Users\HP\Desktop\Activity 3\lambda Expressions\linq array\linq array\linq array\bin\Debug\linq array.pdb
+C:\Users\HP\Desktop\Activity 3\lambda Expressions\linq array\linq array\linq array\obj\Debug\linq array.csproj.AssemblyReference.cache
+C:\Users\HP\Desktop\Activity 3\lambda Expressions\linq array\linq array\linq array\obj\Debug\linq array.csproj.CoreCompileInputs.cache
+C:\Users\HP\Desktop\Activity 3\lambda Expressions\linq array\linq array\linq array\obj\Debug\linq array.exe
+C:\Users\HP\Desktop\Activity 3\lambda Expressions\linq array\linq array\linq array\obj\Debug\linq array.pdb
