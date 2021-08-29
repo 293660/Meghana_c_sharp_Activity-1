@@ -1,0 +1,7 @@
+C:\Users\HP\Desktop\Activity 3\lambda Expressions\lambda linq\lambda linq\bin\Debug\lambda linq.exe.config
+C:\Users\HP\Desktop\Activity 3\lambda Expressions\lambda linq\lambda linq\bin\Debug\lambda linq.exe
+C:\Users\HP\Desktop\Activity 3\lambda Expressions\lambda linq\lambda linq\bin\Debug\lambda linq.pdb
+C:\Users\HP\Desktop\Activity 3\lambda Expressions\lambda linq\lambda linq\obj\Debug\lambda linq.csproj.AssemblyReference.cache
+C:\Users\HP\Desktop\Activity 3\lambda Expressions\lambda linq\lambda linq\obj\Debug\lambda linq.csproj.CoreCompileInputs.cache
+C:\Users\HP\Desktop\Activity 3\lambda Expressions\lambda linq\lambda linq\obj\Debug\lambda linq.exe
+C:\Users\HP\Desktop\Activity 3\lambda Expressions\lambda linq\lambda linq\obj\Debug\lambda linq.pdb
