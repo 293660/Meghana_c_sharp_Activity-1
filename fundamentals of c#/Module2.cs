@@ -100,3 +100,4 @@ string firstWord = "Hello"; string lastWord = "World"; Console.WriteLine(firstWo
             string newMessage = new String(message);
             Console.WriteLine(newMessage);
             Console.WriteLine($"'o' appears {letterCount} times.");
+        }          
