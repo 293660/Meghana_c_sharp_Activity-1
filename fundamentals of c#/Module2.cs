@@ -1,3 +1,26 @@
+using System;
+using System.Collections.Generic;
+using System.Linq;
+using System.Text;
+using System.Threading.Tasks;
+
+namespace C_Sharp_Activity
+{
+    class Program
+    {
+        static void Main(string[] args)
+        {using System;
+using System.Collections.Generic;
+using System.Linq;
+using System.Text;
+using System.Threading.Tasks;
+
+namespace C_Sharp_Activity
+{
+    class Program
+    {
+        static void Main(string[] args)
+        {
 string firstWord = "Hello"; string lastWord = "World"; Console.WriteLine(firstWord + " " + lastWord + "!"); Random dice = new Random();
             int roll1 = dice.Next(1, 7);
             int roll2 = dice.Next(1, 7);
